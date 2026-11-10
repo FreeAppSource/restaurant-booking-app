@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Restaurant Booking App",
+    "slug": "restaurant-booking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#EA580C"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "restaurantbooking"
+  }
+}
